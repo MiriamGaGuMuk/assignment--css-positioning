@@ -1,26 +1,36 @@
-#Sample Layout Mockup
+# Assignment 2 - Basic CSS - Recreating Web Components
 
-![nike flexband layout](./mockups/nike-flexband-layout.png)
+## Instructions
+
+Use what you've learned of CSS position properties to recreate the site components shown below.
 
 
-### Landing Page - Copywriting 
+## Setup
+
+```sh
+
 ```
 
-Client: Nike +
-Project: Fuel Band
+*NOTE:* You will likely want to include `*{box-sizing: border-box}` at the top of your stylesheet
 
-Life is a sport. Make it count.
+## Normal Mode
 
-Two years ago Nike came to us to realize an idea: a device that tracks your daily activity and a common universal metric called Fuel for every active body out there. They asked us to design the entire user experience. We ensured ease of use: set your goal, animations celebrate your performance. Hit a streak and Fuelie shows up to cheer you on. Data visualization show where you were most active daily, weekly, monthly, and beyond. We created Bluetooth synch technology so when you finish your day, your Fuel is wireless synced to the platform. NikeFuel levels the playing field, and fits into your life. #Counts
+### Ex-01 - relative
 
+![img](/mockups/01-relative-positioning.png)
 
-=====
-The Fuel Band tracks all of your activity
-Click to enlarge
+### Ex-02 - relative
 
-Bluetooth sync technology uploads data seamlessly
-Click to enlarge.
+![img](/mockups/02-relative-positioning.png)
 
-Hitting your daily Fuel goal keeps you motivated
-Click to enlarge.
-```
+### Ex-03 - absolute
+
+![img](/mockups/03-absolute-positioning.png)
+
+### Ex-04 - absolute
+
+![img](/mockups/04-absolute-positioning.png)
+
+### Ex-05
+
+![img](/mockups/05-fixed-positioning.png)
