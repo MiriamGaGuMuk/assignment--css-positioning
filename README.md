@@ -33,4 +33,4 @@ Use what you've learned of CSS position properties to recreate the site componen
 
 ### Ex-05
 
-![img](/mockups/05-fixed-positioning.png)
+![img](/mockups/05-fixed-positioning.gif)
