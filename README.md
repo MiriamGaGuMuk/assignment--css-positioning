@@ -6,16 +6,25 @@ Use what you've learned of CSS position properties to recreate the site componen
 
 
 ## Setup
-1. Navigate to `~/muktek/assignments` directory.
 
-2. Download + unzip the project files
+1. In your terminal:
+  ```sh
+  # (1) Navigate to `~/muktek/assignments` directory.
+  cd ~/muktek/assignments
 
-3. `cd` into the `css-positioning` directory
+  # (2) Create the assignment directory and cd into it
+  mkdir css-positioning
+  cd css-positioning
 
-4. Do the exercises. You will need to adjust the relevant position properties in each `ex-*` folder's `style.css` file.
+  # (3) Download + unzip the project files from *inside* the css-positioning directory.
+  curl https://raw.githubusercontent.com/muktek/assignment--css-positioning/master/assignment-files.zip > assignment-files.zip
+  ```
 
+2. Do the exercises. You will need to modify the relevant position properties in each `ex-*` folder's `style.css` file.
+
+3. Make sure you include:
   ```css
-  * {box-sizing: border-box }
+  * { box-sizing: border-box }
   ```
 
 
@@ -29,7 +38,7 @@ You must offset the text block 40px up and 15px to the left.
 
 ### Ex-02 - relative
 
-You must offset the picture profile and author text.
+You must offset the picture profile and author text by .
 
 ![img](/mockups/02-relative-positioning.png)
 
