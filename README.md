@@ -10,7 +10,7 @@ Use what you've learned of CSS position properties to recreate the site componen
 1. In your terminal:
   ```sh
   # (1) Navigate to `~/muktek/assignments` directory.
-  cd ~/Documents/muktek/assignments
+  cd ~/muktek/assignments
 
   # (2) Create the assignment directory and cd into it
   mkdir css-positioning
