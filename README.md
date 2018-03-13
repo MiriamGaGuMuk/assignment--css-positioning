@@ -28,7 +28,7 @@ Use what you've learned of CSS position properties to recreate the site componen
   ```
 
 
-## Normal Mode
+## Mockups
 
 ### Ex-01 - relative
 
