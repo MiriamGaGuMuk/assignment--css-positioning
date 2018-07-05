@@ -41,22 +41,25 @@ img {
 	padding: 20px;
 }
 
+.fixed-menu{
+	font-weight: 100;
+	background: #F44336;
+	color: #fff;
+
+	/*
+		RELEVANT CSS
+		positioning properties here
+	*/
+}
+
+
 .fixed-menu span{
 	padding: 15px;
 	text-align: center;
-	display: inline;
 	display: inline-block;
 	vertical-align: middle;
 }
 
 .fixed-menu span:nth-child(3){
 	font-size: 24px;
-}
-
-.fixed-menu{
-	font-weight: 100;
-	background: #F44336;
-	color: #fff;
-
-	
 }
